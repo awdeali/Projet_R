@@ -6,10 +6,19 @@
     <description>Recent content in Deep Learning on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Une nouvelle publication</title>
+      <link>/post/une-nouvelle-publication/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/une-nouvelle-publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Internal Project</title>

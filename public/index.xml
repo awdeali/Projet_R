@@ -108,6 +108,15 @@
     </item>
     
     <item>
+      <title>Une nouvelle publication</title>
+      <link>/post/une-nouvelle-publication/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/une-nouvelle-publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
