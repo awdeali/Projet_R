@@ -6,24 +6,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: ETS
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Artificial Intelligence
+    institution: École de Technologie Supérieure
+    year: 2009
+  - course: Maitrise en Informatique
+    institution: Université de Montréal
+    year: 2003
 email: ""
 interests:
 - Artificial Intelligence
+- Machine Learning 
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Ali Awdé
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Université de Québec École de Technologie Supérieure
+  url: "http://www.etsmtl.ca/"
+role: Professeur Informatique
 social:
 - icon: envelope
   icon_pack: fas
