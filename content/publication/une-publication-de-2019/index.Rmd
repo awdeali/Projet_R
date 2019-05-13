@@ -1,0 +1,15 @@
+---
+title: Une publication de 2019
+author: Ali
+date: '2019-05-13'
+slug: une-publication-de-2019
+categories:
+  - R
+tags:
+  - Deep Learning
+  - plot
+  - mtl
+image:
+  caption: ''
+  focal_point: ''
+---

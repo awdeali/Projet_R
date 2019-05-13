@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Professeur"
+  company = "Université de Montréal"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Montréal"
+  date_start = "2003-01-01"
+  date_end = "2005-01-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
