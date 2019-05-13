@@ -6,8 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+    institution: École de Technologie Supérieure
+    year: 2009
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -19,7 +19,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Ali Awdé
 organizations:
 - name: Stanford University
   url: ""
